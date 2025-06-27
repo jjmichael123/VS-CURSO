@@ -1,3 +1,1 @@
-function name(params){
-    
-}
+console.log("hola soy dalto")
